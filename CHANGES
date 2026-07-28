@@ -1,3 +1,8 @@
+3.0.1:
+* Stop testing OCaml < 4.11 and require OCaml >= 4.11 [#209 #210 @rjbou @kit-ty-kate]
+* Add support for opam 2.6 by removing indirect calls to `chdir` [#204 @kit-ty-kate]
+* Use the proper shell quoting mechanism instead of "OCaml quoting" when quoting filenames into the system shell [#204 @kit-ty-kate]
+
 3.0.0:
 * No longer allow option names to be specified by a prefix if the prefix is unambiguous [#202 @kit-ty-kate]
 * Query upstream repo for default branch instead of defaulting to `master` [#201 @mbarbin]

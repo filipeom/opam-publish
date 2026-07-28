@@ -1,10 +1,12 @@
 opam-version: "2.0"
-version: "3.0.0"
-maintainer: "Louis Gesbert <louis.gesbert@ocamlpro.com>"
+version: "3.0.1"
+maintainer: "Kate <kit-ty-kate@exn.st>"
 authors: [
   "Louis Gesbert <louis.gesbert@ocamlpro.com>"
   "David Sheets <sheets@alum.mit.edu>"
   "Jeremie Dimino <jdimino@janestreet.com>"
+  "Raja Boujbel <raja.boujbel@ocamlpro.com>"
+  "Kate <kit-ty-kate@exn.st>"
 ]
 homepage: "https://github.com/ocaml/opam-publish"
 bug-reports: "https://github.com/ocaml/opam-publish/issues"
